@@ -1,7 +1,6 @@
 # Human heat exposure and spatial inequality
 
 **Manuscript:** *Widespread increases in human heat exposure and spatial inequality within countries*  
-**Study period:** 2001–2021
 
 This repository provides Python scripts and figure-related data for analyzing the scale and within-country spatial concentration of population-weighted heat exposure.
 
@@ -11,7 +10,7 @@ The `data/` directory contains four Excel workbooks:
 
 | File | Content |
 | --- | --- |
-| `Figure1_GlobalAnnual.xlsx` | Global annual human heat exposure series (Figure 1f). |
+| `Figure1_GlobalAnnual.xlsx` | Global annual human heat exposure series (Figure 1). |
 | `Figure2_ExposureScale.xlsx` | Countries with increasing exposure-scale (ES), selected national time series, and population/thermal-stress attribution (Figure 2). |
 | `Figure3_ExposureConcentration.xlsx` | Countries with increasing exposure-concentration (EC), selected national time series, and attribution (Figure 3). |
 | `Figure4_Global South and North.xlsx` | Joint ES–EC classifications, Global South/North summaries, and attribution values used in boxplots (Figure 4). |
